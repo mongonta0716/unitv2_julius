@@ -1,6 +1,6 @@
 #/bin/sh
 
-sudo mv /external/julius_files.tar .
+sudo mv /external/julius_files.tar ./files_to_unitv2
 
 echo Start a browser and open the following URL to download dictation-kit-v4.1.tar.gz.
 echo ブラウザを起動して、下記のURLを開いてdictation-kit-v4.1.tar.gzをダウンロードしてください。
